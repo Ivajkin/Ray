@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.0"
+	Name="RaytracingNormal"
+	ProjectGUID="{2349E79A-B284-4898-82C1-A49FC5307122}"
+	VCNestedProjectGUID="{3AE3D300-3319-4B52-85EA-A9FDEF2BAE4B}"
+	VCNestedProjectFileName="RaytracingNormal.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|Win32">
+			<Tool
+				Name="CppCmplrTool"
+				Optimization="1000"
+				EnableEnhancedInstructionSet="1000"
+				FloatingPointModel="1000"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>
